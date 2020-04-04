@@ -1,0 +1,110 @@
+<form action="html5-formularios.html" method="get">
+    <H1 align="center"<p style="color:red;"></p>NETFLIX </H1> 
+    <html>
+        <body background="fondo1.jpg" bgcolor="F1C2C2">
+    
+        <table width="550" bgcolor=F1C2C2 align=center>
+        <tr>
+            <td>
+            <h1 style="color:000000"></h1>
+            </td>
+        </tr>
+        </table>
+        </body>
+        </html> 
+    <h3>Que es Netflix?</h3>
+    <p>Netflix, es un servicio mensual de televisión online, actualmente cuenta con más de 60 millones de usuarios. Se trata de una plataforma de televisión online donde tú eliges que y cuando verlo. Te permite elegir entre un enorme catálogo de películas, series y documentales entre otros contenidos. Puedes ver el contenido en Smart TV, consolas de juegos, PC, Mac, dispositivos móviles, tabletas, siempre y cuando esten conectados a internet.</p>
+    <br><br>
+    <center>
+        <img src="netdos.jpg" height=”600” width=400” alt="Descripción de la imagen"> 
+    </center>
+    <br>
+<a href="https://www.youtube.com/watch?v=dPNoCP7SfFo" >SI QUIERE SABER MAS SOBRE NETFLIX ENTRE AQUI!!!</a>
+<br><br>
+<a href="https://www.netflix.com/gt/" >PAGINA OFICIAL DE NETFLIX GT!!!</a>
+<br><br>
+    <br><br>
+    <h3>Cual es tu serie favorita de Netflix</h3>
+    <input type="radio" name="gender" value="Stranger Things" checked> Stranger Things
+<br>
+<input type="radio" name="gender" value="You"> You
+<br>
+<input type="radio" name="gender" value="The Witcher"> The Witcher
+<br>
+<input type="radio" name="gender" value="Black Mirror"> Black Mirror
+<br>
+<input type="radio" name="gender" value="Dark"> Dark
+<br>
+<h3>Justifique su respuesta</h3>
+<textarea name="message" rows="10" cols="30">
+Porque prefiere esta serie?
+</textarea>
+<br>
+<img src="netgi.gif"  height=”600” width=400” alt="Descripción de la imagen"> 
+<br><br>
+<h3>Cual es tu pelicula favorita de Netflix</h3>
+<input type="radio" name="gender" value="Bright" checked> Bright
+<br>
+<input type="radio" name="gender" value="El hoyo"> El hoyo
+<br>
+<input type="radio" name="gender" value="El Paquete"> El Paquete
+<br>
+<input type="radio" name="gender" value="Alex Strangelove"> Alex Strangelove
+<br>
+<input type="radio" name="gender" value="Fourth Man Out"> Fourth Man Out
+<br>
+<h3>Justifique su respuesta</h3>
+<textarea name="message" rows="10" cols="30">
+Porque prefiere esta pelicula?
+</textarea>
+<br>
+<a href="https://www.netflix.com/gt/browse/genre/839338" >CATALOGO DE NETFLIX ORIGINAL</a>
+<br><br>
+
+    <video src="netlo.mp4" width="640" height="480" autoplay muted loop></video>
+    <br><br>
+    <center>
+        <img src="net.jpg" Border=valor height=”500” width=400” alt="Descripción de la imagen"> 
+    </center>
+    <br><br>
+    <h3>TUS DATOS DE NETFLIX</h3>
+    <br>
+    <h3>Correo Electronico</h3>
+<label form="email">email:</label>
+<input type="email" name="email" autocomplete="off">
+<br>
+<h3>Contraseña</h3>
+<label form="password">Contraseña:</label>
+<input type="password" name="psw" required> 
+<br>
+<h4>Tus datos estan seguros con nososotrso UwU.</h4>
+<br>
+<center>
+    <img src="pao.jpg" Border=valor height=”500” width=400” alt="Descripción de la imagen"> 
+</center>
+<br>
+<video src="io.mp4" autoplay muted loop></video>
+<br>
+<a href="ile:///C:/Users/USUARIO/Music/jjjjj.html" >gg</a>
+<br>
+<a href="https://www.youtube.com/watch?v=VMtarj8Ua0s" >Musica para ser feliz</a>
+<br>
+<h3>Como te parecio la pagina?</h3>
+<label form="nombre">Calificanos!!!:</label>
+<input list="browsers">
+<datalist id="browsers">
+ <option value="Excelente">
+ <option value="Genial">
+ <option value="Aceptable">
+ <option value="mal">
+ <option value="Horrible">
+ <br>
+<video src="io.mp4" width="640" height="480" autoplay muted loop></video> 
+<br>
+ <center>
+    <img src="poli.gif"  height=”600” width=400” alt="Descripción de la imagen"> 
+</center>
+<br><br>
+<a href="file:///C:/Users/USUARIO/Music/jjjjj.html" >gg</a>
+<br>
+    </form>
